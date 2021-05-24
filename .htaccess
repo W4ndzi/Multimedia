@@ -5,7 +5,7 @@ Deny from all
 </FilesMatch>
 
 RewriteEngine on
-RewriteRule strong-glowna index.html
+RewriteRule strona-glowna index.html
 RewriteRule grafika grafika.html
 RewriteRule animacja animacja.html
 RewriteRule audiobook audiobook.html
